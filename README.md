@@ -13,6 +13,8 @@ How to deoploy your machine learning model by using Flask Framework
 - templates - directory to render HTML  files
 - data  - directory to keep data for training the model
 
+The model can predict your salary according to your years of experience. 
+
 You can visit the Flask application here http://djangoposts.pythonanywhere.com/
 
 
