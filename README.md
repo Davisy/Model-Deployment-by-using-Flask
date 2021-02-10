@@ -1,5 +1,5 @@
 # Model-Deployment-by-using-Flask
-How to deoploy your machine learning model by using Flask Framework
+How to deploy your machine learning model by using Flask Framework
 
 ### Scripts files details
 
@@ -15,6 +15,5 @@ How to deoploy your machine learning model by using Flask Framework
 
 The model can predict your salary according to your years of experience. 
 
-You can visit the Flask application here http://djangoposts.pythonanywhere.com/
 
 
